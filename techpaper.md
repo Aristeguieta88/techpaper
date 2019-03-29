@@ -437,105 +437,111 @@ tiempo de actividad, la velocidad de conexión y la ubicación geográfica.
 ### Masternodes - el 4% superior de los poseedores TOR-X
 
 
-Masternodes are reputable parties that are holding stack of TOR-X tokens, with
-significant community outreach and established trust in the industry, such as
-foundations, alliances, venture funds and etc. As a reward for the validation
-services and distributed ledger hashing and synchronization, masternodes get the
-following advantages:
+Los Masternodo son partes acreditadas que tienen una pila de tokens TOR-X, con un
+importante alcance comunitario y una confianza establecida en la industria, como
+fundaciones, alianzas, fondos de riesgo, etc. Como recompensa por los servicios de 
+validación, el hashing y la sincronización del libro mayor distribuido, el Masternodes 
+obtiene las siguientes ventajas:
 
--   Higher percentage of TOR-X DEX iDApp commission fees.
+-   Mayor porcentaje de comisiones de iDApp TOR-X DEX.
 
--   Periodical voting-free token/coin listing opportunity. Listing procedure is
-    kept closed first (only super nodes acting as a due diligence gate to filter
-    out the best projects) for the sake of maintaining high-volume pairs, but it
-    will be delegated to the community with voting being in place once the
-    volume and the user base are acquired.
+-   Oportunidad de publicación periódica de fichas / monedas sin voto. El procedimiento de
+    listado se mantiene cerrado primero (solo los supernodos que actúan como una puerta de 
+    diligencia debida para filtrar los mejores proyectos) por el hecho de mantener pares de alto 
+    volumen, pero se delegará a la comunidad con la votación una vez se adquiera la base de 
+    los usuarios y el volumen. 
 
--   Perform secure OTC cross-chain deals with lower commissions.
+-   Realice acuerdos seguros OTC entre cadenas con comisiones más bajas.
 
--   Perform and act as escrow in crypto-to-fiat and fiat-to-crypto pEp exchanges 
-where it will be requested by users.
+-   Realice y actúe como depósito de garantía en los intercambios de pEp de cripto a fiat y de 
+fiat a cripto donde los usuarios lo soliciten.
 
-### Voting tokenized nodes - top 4% to 20% of TOR-X holders
-
-
-Node owners are parties that are holding significantly less volumes of TOR-X
-tokens than masternode owners. Nodes owners will have following advantages:
-
--   Operate as relays of network and ledger replication keepers.
-
--   Measure and aggregate blockchain health state data for Self-learning Neural 
-Network that is working on Multi-Criteria Decision Making task.
-
--   Lower share of TOR-X DEX iDApp commission fees.
-
--   Initiation of voting for token/coin listing.
-
--   Ability to become Masternode once staked enough tokens to get into top 4% of
- holders
-
-## TOR-X Node voting mechanism
+### Nodos de tokenized de votación: del 4% al 20% de los titulares de TOR-X
 
 
-TOR-X node, super node title redistribution mechanism is one of the most complex
-tasks that has to be solved by TOR-X Team as this task plays key role in
-profitability distribution of TOR-X Node holders and reduction of fees for TOR-X
-network users.
+Los propietarios de nodos son partes que tienen significativamente menos volúmenes de
+tokens TOR-X que los propietarios de masternode. Los propietarios de nodos tendrán las
+siguientes ventajas:
 
-To solve this problem in a most efficient and impartial way TOR-X team performed
-research of different Multi Criterial Decision Making algorithms and spatial
-modeling of voting choice.
+-   Operar como relés de la red y de los encargados de la replicación del libro mayor.
 
-Historical transaction data of TOR-X iDApps in conjunction with results of
-spatial modeling of electoral choice of TOR-X users will provide ability to
-determine potentially fraudulent actions of network participants to prevent them
-and make TOR-X network safe for all market players.
+-   Mida y agregue los datos del estado de salud de la cadena de bloques para la Red neuronal 
+de autoaprendizaje que está trabajando en la tarea de toma de decisiones de criterios 
+múltiples.
+
+-   Menor porcentaje de comisiones de iDApp TOR-X DEX.
+
+-   Iniciación de la votación para el listado de fichas / monedas.
+
+-   Capacidad de convertirse en Masternodo una vez acumulado suficientes fichas 
+para llegar al 4% de los titulares.
+ 
+
+## Mecanismos de Voto en el NODO TOR-X 
+
+
+El nodo TOR-X y el mecanismo de redistribución del título del súper nodo es una de las 
+tareas más complejas que debe resolver el equipo de TOR-X, ya que esta tarea desempeña
+un papel clave en la distribución de la rentabilidad de los titulares del nodo TOR-X y la
+reducción de las tarifas para TOR-X usuarios de la red.
+
+Para resolver este problema de la manera más eficiente e imparcial, el equipo TOR-X 
+realizó una investigación de diferentes algoritmos de toma de decisiones de criterios
+múltiples y un modelo espacial de elección de voto.
+
+Los datos históricos de transacciones de las iDApps TOR-X junto con los resultados del 
+modelado espacial de la elección electoral de los usuarios de TOR-X proporcionarán la 
+capacidad de determinar acciones potencialmente fraudulentas de los participantes de la 
+red para prevenirlos y hacer que la red TOR-X sea segura para todos los participantes del 
+mercado. 
 
 	Let`s assume nodes as τ_1,τ_2 and τ_1<τ_2. 
 
-In accordance with the theory of spatial modeling of electoral choice, TOR-X
-network participant node preference with his perfect point β will have following
-election preference:
+De acuerdo con la teoría del modelado espacial de la elección electoral, la preferencia 
+del nodo participante de la red TOR-X con su punto perfecto β tendrá 
+las siguientes preferencias electorales:
 
 	Node τ_1, in case if β<(τ_1+τ_2)/2
 	Node τ_2, in case if β>(τ_1+τ_2)/2
 
-We assume that voting subject evaluates his utility variation during the
-sequence of equivalent periods. If the estimation of utility variation was
-positive or non-negative than subject of TOR-X network will vote for incumbent;
-otherwise subject will give his vote for challenger. So, if K(t) is utility
-value at the moment t, and elections take place at integer times i.e. t=1,2,3,…, 
-than voting subject will vote:
+Suponemos que el sujeto votante evalúa su variación de utilidad durante la 
+secuencia de períodos equivalentes. Si la estimación de la variación de la utilidad
+fue positiva o no negativa, el sujeto de la red TOR-X votará por el titular; de lo 
+contrario sujeto le dará su voto para el retador. Entonces, si K (t) es un valor de 
+utilidad en el momento t, y las elecciones tienen lugar en tiempos enteros, es decir, 
+t = 1,2,3,…, entonces el sujeto votante votará:
 
 	For incumbent in case if K(t)≥K(t-1)
 	For challenger in case if K(t)≤K(t-1)
 
 
-As there are different set of factors that has influence on node voting process,
-there is only way to use stochastic model:
+Como hay diferentes conjuntos de factores que influyen en el proceso de votación
+del nodo, solo hay una forma de utilizar el modelo estocástico:
 
 	p(β_i,K_i,(t))=exp[-α(β_i-(K_i (t))/(K_i (t-1)) * (τ_1+ τ_2)/2)]/(1+exp[-α(β_i-(K_i (t))/(K_i (t-1)) * (τ_1+ τ_2)/2)] )
 
-In this equation $$\alpha$$ –parameter describes how quickly changes probability
-as you move to the left and to the right of the point of voting
+En esta ecuación $$ \ alpha $$, el parámetro describe qué tan rápido cambia la
+probabilidad a medida que se mueve hacia la izquierda y hacia la derecha 
+del punto de votación.
 
 	β=(K_i (t))/(K_i (t-1))  (τ_1+ τ_2)/2,where p(β_i,K_i,(t))=0
 
-So the less value of $$\alpha$$ –parameter, the greater role of stochastic, that
-means higher role of factors that were not taken into account during model
-creation in comparison with economical factors that were mentioned in model.
+Entonces, cuanto menor sea el valor de $$ \ alpha $$ –parámetro, mayor es el papel
+del estocástico, eso significa mayor papel de los factores que no se tuvieron en 
+cuenta durante la creación del modelo en comparación con los factores económicos 
+que se mencionaron en el modelo.
 
-## TOR-X ecosystem application scenarios
+## Escenarios de aplicación en el ecosistema TOR-X
 
 
-The public chain project represented by Bitcoin and Ethereum has shown us the
-great potential of the blockchain, but due to the intrinsic technical
-characteristics of the blockchain, single-chain solutions are restricted by the
-performance and transaction speed. There has been a lack of revolutionary
-breakthroughs in the latter. TOR-X Network infrastructure will bring new
-solutions:
+El proyecto de cadena pública representado por Bitcoin y Ethereum nos ha
+mostrado el gran potencial de la tecnología blockchain, pero debido a las
+características técnicas intrínsecas del blockchain, las soluciones de cadena única 
+están restringidas por el rendimiento y la velocidad de la transacción. Ha habido una
+falta de avances revolucionarios en este punto. La infraestructura de la red TOR-X
+traerá nuevas soluciones:
 
-### Decentralized cross-chain crypto currency exchange iDApp
+### Cambio de tokens cifrado descentralizado iDApp
 
 The main aim of TOR-X team is to build secure DEX iDApp. Decentralized trading
 has long been constrained by cross-chain technology, and current decentralized
