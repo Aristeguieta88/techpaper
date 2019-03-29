@@ -1,161 +1,175 @@
 ## Introduction
 
-Today, cryptocurrencies are primarily traded on centralized crypto exchanges
-(CEX) where user funds are at risk to hackers and platform managers.
-Decentralized exchanges (DEXs) allow users to retain control of their funds as
-trades are mediated by smart contracts on a blockchain. Unfortunately, today’s
-DEXs are slow, hard to use, and are restricted to trades on a single blockchain.
+## Introducción
 
-TOR-X is complex solution that consists of a new blockchain that is made for
-decentralized exchange that reduces user\`s risks and provides solution for
-cross-chain exchange, leveraging a high performance cross-chain matching engine
-to handle massive order volume and decentralized mechanism for cross-chain
-exchange supporting more complex trading APIs and smart contracts. Developers
-can create and deploy custom DApps for the TOR-X network utilizing advantages of
-new technological solutions.
+Hoy día los intercambios de criptomonedas se realizan en casas de cambio centralizadas. 
+(CEX) donde los fondos que depositan los usuarios están a la merced de los Hackers y los
+administradores. Los intercambios descentralizados (DEX) permiten a los usuarios retener 
+el control de sus fondos como las operaciones están mediadas por contratos inteligentes 
+en una cadena de bloques. Desafortunadamente hoy día todos las casas de cambio 
+descentralizadas (DEX) son lentas, difíciles de usar  y las transacciones están 
+registrindigas a una sola cadena de bloques.
 
-Many people do not use DEXs because they cannot trade with their national
-currencies. TOR-X is the first DEX that will allow its clients to enter the
-exchange with fiat currencies such as USD, powered by a global network of
-accredited third parties that must be TOR-X node holders. Exchange services are
-critical not just for users of cryptocurrencies, but also for many other
-applications built upon blockchain technology.
+TOR-X es una solución completa que ofrece una nueva cadena de bloques para el
+intercambio descentralizado que reduce los riesgos del usuario y proporciona una solución 
+para un intercambios de cadenas-cruzadas, aprovechando un motor de coincidencias de 
+cadenas-cruzadas manejando el volumen masivo de pedidos y el mecanismo 
+descentralizado de cadenas cruzadas. El intercambio soporta APIs más complejas 
+y contratos inteligentes. Los desarrolladores pueden crear e implementar DApps 
+personalizadas para la red de TOR-X haciendo uso de las nuevas ventajas tecnológicas. 
 
-TOR-X pretends to build ecosystem of web-based decentralized applications
-(dApps) running across public blockchains such as Bitcoin and Ethereum. These
-decentralized applications would be provided with tools to interact with, make
-and validate transactions and send data and funds across chains. To achieve this
-vision TOR-X is developing the first cross-chain engine and API that will be
-seamlessly integrateable with most of existing solutions such as wallets,
-browser extensions and payment gateways. Web applications can use this API to
-collect payments for goods in any digital currency, make trades and transactions
-across blockchains, and interact with smart contracts across blockchains. All of
-this cross-chain functionality is powered and made possible by the TOR-X
-cross-chain matching engine.
+Muchos de los usuarios no usan los DEX ya que no pueden realizar operaciones con sus 
+cmonedas nacionales TOR-X es el primer DEX que va a permitir a sus usuarios realizar 
+operaciones dentro del intercambio con monedas fiduciarias como el USD, impulsado por 
+una red global de titulares poseedores del nodo TOR-X. Los servicios de intercambio juegan 
+un papel crítico, no sólo para los usuarios del mundo criptográfico, sino también para el
+desarrollo de aplicaciones que utilizan la tecnología del Blockchain.
 
-TOR-X is issuing 100 million tokens to fund development and TOR-X technology
-mass adoption, of which 60 million will be sold to the public during several
-stages of sale.
+TOR-X pretende construir un ecosistema de aplicaciones descentralizadas basadas en la 
+web (dApps) para que se ejecuten en cadenas de bloques publicás como lo son Bitcoin y 
+Ethereum. Dichas aplicaciones recibirán herramientas para: interactuar, realizar y validar 
+transacciones, enviar datos y fondos a través de las cadenas. Para lograr esta visión, 
+TOR-X está desarrollando el primer motor de cadena cruzada y la API que se integrarán 
+perfectamente con la mayoría de las soluciones existentes, como carteras, extensiones de 
+navegador y pases de pago. Las aplicaciones Web puede utilizar esta API para reclamar 
+pagos de productos en cualquier moneda digital. Puede realizar trades y transacciones junto 
+a la cadena de bloques para interactuar con contratos inteligentes en la cadena cruzada.  
+Toda esta funcionalidad de cadenas cruzadas está impulsada y hecha posible por el motor 
+de coincidencias de cadenas cruzadas de TOR-X.
 
-## The History of Blockchain Industry Development
+TOR-X está emitiendo 100 millones de fichas para iniciar el desarrollo y la adopción masiva 
+de la tecnología TOR-X, de las cuales 60 millones serán vendidas al público en distintas 
+etapas de venta. 
 
-### Blockchain 1.0, 2.0, and 3.0
+## The History of Blockchain Industry Development 
 
+## Historia del desarrollo de la industria Blockchain 
 
-In the year of 2008, Satoshi Nakamoto's famous paper pioneered the concept of
-Bitcoin. In the 10 years since then, the blockchain industry has developed
-rapidly. Compared with the underlying architecture of the internet and other
-technologies such as loT, Al, and cloud computing, blockchain has had a very
-short development cycle.
+### Blockchain 1.0, 2.0, and 3.0 
 
-Over the past 10 years, the blockchain industry has made significant progress
-not only in the 1.0 era, as represented by Bitcoin, but in the 2.0 era,
-represented by Ethereum and Consortium blockchains. Especially since the first
-half of 2017, the explosion of ICOs based on a new fundraising method created by
-Ethereum has stimulated a blockchain bubble and has also enabled more funds and
-entrepreneurs to enter the business, accelerating industry development.
+### Blockchain 1.0, 2.0 y 3.0
 
-From July 2017 to June 2018, the total number of blockchain projects entering
-the market, and total market capitalization, have reached 181.6% of the total
-historical value of previous years. In the past year, the blockchain industry
-has received unprecedented attention.
+En el año 2008 Satoshi Nakamoto’s se hizo famoso por ser pionero del manifiesto del 
+Bitcoin. Diez años después la tecnología del Blockchain se ha desarrollado sumamente 
+rápido. Comparado con la tecnología subyacente del internet y otras tecnologías como : IoT,
+AI, and cloud computing; el blockchain ha tenido un ciclo de desarrollo prematuro. 
+
+Durante el paso de los últimos 10 años, la industria del blockchain ha realizado un 
+significante progreso no solo en la etapa 1.0 representada por el Bitcoin, también en la
+etapa 2.0 representada por Ethereum y todo el Consorcio de blockchains. A la mitad del año 
+2017. La explosión de las ICOs y el nuevo método de recaudación de fondos creado por 
+Ethereum ha estimulado la creación de una burbuja en la industria blockchain, permitiendo 
+así que más fondos y empresarios ingresen al negocio acelerado el crecimiento de la 
+industria.
+
+Desde julio de 2017 hasta junio de 2018, el número total de proyectos de blockchain que 
+ingresan al mercado y la capitalización total del mercado han alcanzado el 181.6% del valor
+histórico total de los años anteriores. En el último año, la industria de blockchain ha recibido 
+una atención sin precedentes.
 
 ![Number of projects launched](https://tor-x.network/whitepaper/number-of-projects-1.jpg)
 
-The new breakthroughs and opportunities that will exist in the 3.0 era as the
-blockchain industry enters a stage of rapid development has become the most
-discussed topic in the industry. The industry has interpreted the concept of
-blockchain 3.0, in many different ways, and no unified standard has been
-reached.
+Los nuevos avances que se esperan alcanzar en la tecnología blockchain en su etapa 3.0 
+debido a su rápido desarrollo es uno de los temas más discutidos en la industria. 
+discussed topic in the industry. La industria ha interpretado el concepto de
+blockchain 3.0 de muchas maneras diferentes y ningún concepto unificado ha sido
+alcanzado.
 
-### Blockchain development: technology and economy
+### Desarrollo del Blockchain: tecnología y economía. 
 
 
-Starting from two core dimensions which drive blockchain industry - technology
-and economy - by reviewing blockchain history and studying its key development,
-this document defines sidechain & cross-chain technologies as important
-representatives of blockchain 3.0, further crypto currency industry and concept
-development.
+Partiendo de dos dimensiones centrales que impulsan a la industria del Blockchain 
+(Tecnología y Economía) revisando su historia y al estudiar su desarrollo clave, en este 
+documento se define la tecnología de la cadena lateral y cruzada como un representante 
+importante en el Blockchain 3.0, la industria criptográfica y el desarrollo de conceptos. 
 
 ![Blockchain Evolution](https://tor-x.network/whitepaper/blockchain-evolution-1.jpg)
 
-Blockchain technology innovation mainly involves enhancing its functions and
-performance. In 1.0 era, as a trusted distributed ledger, the Bitcoin system
-could only implement functions such as bitcoin transfers, and with single digit
-TPS. In the 2.0 era, Ethereum has applied smart contracts, supported operation
-of Turing-complete scripts, and supported a variety of business logic and
-commercial applications, greatly enriching blockchain functions. Consortium and
-public blockchains with DPoS achieved even higher transaction performance.
+Innovar en la tecnología Blockchain implica principalmente mejorar sus funciones y 
+rendimiento. En la era 1.0 como un libro contable distribuido en confianza, el sistema Bitcoin
+solo podía implementar funciones como las transferencias de bitcoin y con TPS de un solo 
+dígito. En la era 2.0 Ethereum aplicó los contratos inteligentes respaldando la operación de 
+los scripts completos de Turing apoyando una variedad de aplicaciones comerciales y de 
+lógica empresarial, que ha enriquecido enormemente las funciones del Blockchain. El 
+consorcio y los blockchain públicos con DPoS lograron un rendimiento de transacciones aún 
+mayor.
 
-In 3.0 era, sidechain & cross-chain technologies will play a key role in
-expanding blockchain functions and performance.
+En la era 3.0, la tecnologías de cadena lateral y cruzada desempeñarán un papel clave en
+la expansión de las funciones y el rendimiento de la cadena de bloques.
 
-Economic innovation mainly deals with the trading friction of digital and real
-assets, and production relation innovations based on new asset allocation
-methods. Between the 1.0 and 2.0 eras, a large amount of blockchain digital
-assets were created. Reducing the transaction friction between assets, and
-building a wider range of value networks and economic systems, both
-fundamentally depend on the development of cross chain technology.
+La innovación económica se ocupa principalmente de la fricción comercial de los activos
+digitales, reales y en las innovaciones de las relaciones de producción basadas en nuevos 
+métodos de asignación de activos. La reducción de la fricción de la transacción entre los 
+activos y la creación de una gama más amplia de redes de valor y sistemas económicos 
+dependen fundamentalmente del desarrollo de la tecnología de cadena cruzada.
 
 ### Weaknesses and Threats of CEX approach
 
 
-The Problem Blockchain technology and subsequent cryptocurrencies are so new
-that many crippling challenges exist across trading platforms and exchanges.
-Currently, digital currencies do not connect to each other in the same way that
-information networks do. The current exchange model for currencies has a
-critical barrier to linking small-scale currencies to other popular currencies
-using a market-determined exchange rate. Also, the exchanges and trading
-platforms are in essence acting as a centralized system that inherently brings
-associated faults and defeats the purpose of decentralization. Challenges facing
-crypto-exchanges and trading platforms today:
+### Debilidades y amenazas del enfoque CEX
 
--   Centralization - owners and team became central entity censor that can
-    prevent people from accessing exchange and liquidity that is against
-    blockchain ideology. They set own rules, fees, control private keys to
-    users\` wallets. That situation gives exchange full custodial rights of the
-    funds.
 
--   Centralized exchanges operate out of blockchain - there are no ability to
-    find out were orders actually put and taken, was it made by real market
-    player or by exchange itself pursuing only aim to achieve higher rank in
-    liquidity chart.
+El problema en la tecnología Blockchain y las criptomonedas subsiguientes son tan nuevos
+que existen muchos desafíos paralizantes en las plataformas comerciales y los 
+intercambios. Actualmente, las monedas digitales no se conectan entre sí de la misma
+manera que las redes de información. El modelo de cambio actual para las monedas tiene 
+una barrera crítica para vincular las monedas de pequeña escala con otras monedas 
+populares utilizando un tipo de cambio determinado por el mercado. También, los 
+intercambios y las plataformas comerciales están actuando en esencia como 
+un sistema centralizado que inherentemente conlleva fallas asociadas y anula el propósito 
+de la descentralización. Los desafíos que enfrentan los intercambios de cifrado y las 
+plataformas de negociación de hoy:
 
--   Centralized Exchanges fake trading volume that was disclosed by many
-    independent researches that shown CEX manipulating their volumes to attract
-    ratings, media hype and real liquidity from non-professional market players.
+-   Centralización: los propietarios y el equipo se convirtieron en un censor
+    censor de la entidad central que puede impedir que las personas accedan al intercambio
+    y la liquidez. Acción que está en contra de la ideología del Blockchain.
+    Ellos establecen sus propias reglas, tarifas y controlan las claves privadas de 
+    las billeteras de los usuarios. Situación que les otorga pleno derecho de custodia 
+    sobre los fondos.
+   
+-   Los intercambios centralizados operan fuera del blockchain: - no hay capacidad para
+    descubrir dónde se hicieron y se tomaron los pedidos; si fue realizado por un usuario real 
+    del mercado o por la misma casa de intercambio que persigue únicamente el objetivo de c
+    alcanzar un rango más alto en el gráfico de liquidez.
 
--   Barriers to Entry: There are different rules to join each platform, delays
-    in approval, traditional currency deposits vs. digital only deposits, lack
-    of instant deposits.
+-   Los intercambios centralizados falsifican el volumen de operaciones que fue revelado por
+    imuchas investigaciones independientes que muestran que los intercambios que se manejan 
+    bajo el sistema CEX manipulan sus volúmenes para atraer calificaciones, exageraciones en
+    los medios y liquidez real de actores no profesionales del mercado.
 
--   Challenges of Use: Trades blocked without explanation, daily limits, poor
-    UI, buggy software, not user-friendly.
+-   Obstáculos para ingresar: Diferentes reglas para unirse a cada plataforma, demora en las
+    aprobaciones, depósitos en moneda nacional frente a depósitos digitales, falta de depósitos 
+    instantáneos.
 
--   Latency: Incessant lack of speed and performance issues.
+-   Desafíos para su uso: operaciones bloqueadas sin explicación, límites diarios, IU deficiente,
+   software defectuoso, difícil de usar.
 
--   Lack of Support: There is a complete lack of customer support and inability
-    to respond across most big-name platforms; It is not uncommon to wait weeks
-    or months for a reply.
+-   Latencia: incesante falta de velocidad y problemas de rendimiento.
 
--   Lack of Security: Multiple hacks, lost funds, privacy breaches, shut down
-    sites.
+-   Falta de soporte: total y completa falta de soporte al cliente e incapacidad para responder 
+    en la mayoría de las plataformas de renombre; No es raro esperar semanas o meses para
+    recibir una respuesta.
 
--   Lack of Privacy: Required verification, credit card, driver’s license scans,
-    passports.
+-   Falta de seguridad: varios ataques, pérdida de fondos, violaciones de privacidad, cierre de
+   sitios.
 
--   Exchanges being hacked and only users loose their funds but not exchanges.
+-   Falta de privacidad: verificación requerida, tarjeta de crédito, escaneo de licencias de 
+    conducir, pasaportes.
 
-Since very appearance of centralized token exchanges they became perfect aim for
-hackers and different fraudulent activities. The only person who takes financial
-risks and loses funds is client. Just imagine that customers of exchanges lost
-more than 1,3 Bln USD. But if we calculate losses on current date this number
-will multiply significantly. For example, Mt. Gox that was attacked in 2014 lost
-744,408 BTC of customers\` funds. It is more than 4.6 Bln USD today.
+-   Los intercambios son hackeados donde solo los usuarios pierden sus fondos pero no los
+    intercambios.
 
-It could never happen with approach that is offered by TOR-X team.
+Desde que aparecieron los intercambios de monedas centralizados se han convertido en el 
+blanco perfecto de los piratas informáticos y diferentes actividades de fraude. 
+La única persona que asume riesgos financieros y pierde fondos es el cliente. Los clientes 
+de las bolsas perdieron más de 1,3 millones de dólares. Pero si calculamos las pérdidas en
+la fecha actual, este número se multiplicará significativamente. Por ejemplo, Mt. Gox fue
+atacado en 2014 y perdió 744,408 BTC de fondos de clientes. Es más de 4.6 Billones de 
+dólares hoy.
 
-| **CEX Name** | **Date of Hack** | **USD Loss**   |
+Esto jamás pasaría en el acercamiento propuesto por el equipo de TOR-X.
+
+| **CEX Nombre** | **Fecha del Hack** | **Perdida en USD**   |
 |--------------|------------------|----------------|
 | Mt. Gox      | Jun.11           | \$ 8 750 000   |
 | Bitcoin7     | Oct.11           | \$ 50 000      |
@@ -174,43 +188,46 @@ It could never happen with approach that is offered by TOR-X team.
 | MintPal      | Oct.14           | \$ 1 300 000   |
 | KipCoin      | Oct.14           | \$ 690 000     |
 | BitPay       | Dec.14           | \$ 1 800 000   |
-| 796Exchange  | Jan.15           | \$ 230 000     |
-| Bitstamp     | Jan.15           | \$ 5 200 000   |
+| 796Exchange  | Enr.15           | \$ 230 000     |
+| Bitstamp     | Enr.15           | \$ 5 200 000   |
 | BTER         | Feb.15           | \$ 1 750 000   |
 | ShapeShift   | Apr.16           | \$ 230 000     |
 | Gatecoin     | May.16           | \$ 2 140 000   |
 | Bitfinex     | Aug.16           | \$ 77 000 000  |
 | Bitcurex     | Oct.16           | \$ 1 500 000   |
 | Bithumb      | Feb.17           | \$ 1 000 000   |
-| YouBit       | Apr.17           | \$ 5 300 000   |
-| Coincheck    | Jan.18           | \$ 500 000 000 |
+| YouBit       | Abr.17           | \$ 5 300 000   |
+| Coincheck    | Enr.18           | \$ 500 000 000 |
 | BitGrail     | Feb.18           | \$ 187 000 000 |
 | Coinrail     | Jun.18           | \$ 40 000 000  |
 | Banchor      | Jul.18           | \$ 23 500 000  |
 | Zaif         | Sep.18           | \$ 60 000 000  |
-| Cryptopia    | Jan.19           | \$ 16 180 000  |
+| Cryptopia    | Enr.19           | \$ 16 180 000  |
 
 ## TOR-X blockchain
 
 
-TOR-X ecosystem will utilize best practices and approaches of blockchain
-industry that were achieved during till present moment. Obviously, this is not
-the best idea - to start a promising revolutionary project on a deliberately
-outdated technology stack and consensus algorithm such as Proof of Work or Proof
-of Stake.
+## TOR-X blockchain
 
-In TOR-X we are going to solve following problems:
 
-1.  Reasonable practical transaction per second (TPS) rate that will satisfy
-    community demand.
+El ecosistema TOR-X utilizará las mejores prácticas y enfoques de la industria de blockchain
+que se lograron hasta el momento presente. Obviamente, esta no es la mejor idea:
+comenzar un proyecto revolucionario prometedor en una pila de tecnología y algoritmo de
+consenso deliberadamente obsoletos, como Prueba de trabajo o Prueba de estaca.
 
-2.  Support public and private blockchain segments where it will be reasonable.
-    For example, all TOR-X DEX iDApp transactions must be public and easy to
-    validate but TOR-X OTC market history could be placed on private blockchain
-    segment.
 
-3.  Smart contract and DApp, iDApp development accessible for the global
-    developers community.
+En TOR-X vamos a resolver los siguientes problemas:
+
+1.  Tasa de transacción práctica razonable por segundo (TPS) que satisfará la demanda de la 
+    comunidad.
+
+2.  Soporte de segmentos de blockchain públicos y privados donde sea razonable. Por ejemplo,
+    todas las transacciones de iDApp de TOR-X DEX deben ser públicas y fáciles de validar, 
+    pero el historial del mercado OTC de TOR-X se puede colocar en un segmento privado de 
+    blockchain.
+
+3.  Contrato inteligente y DApp, desarrollo de iDApp accesible para la comunidad global de 
+    desarrolladores.
 
 4.  TOR-X node and super node title redistribution will be controlled by
     Multi-Criteria Decision Making Neural Network itself without invasion from
