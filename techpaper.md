@@ -348,17 +348,18 @@ El Equipo de TOR-X va a distribui y compartir los Tokens de la siguiente forma:
 
 | **Nombre**                                  | **Cantidad total a compartir, %** | **Tokens de Red** | **Descripción Detallada**                                                                                                                                                                                                                                                                              |
 |-------------------------------------------|------------------------------|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Venta min. contribución = 0.5 ETH          | 25,00%                       | 25 000 000     | Etapa principal de venta para todos los contribuidores que pasen el protocolo KYC de TOR-X.                                                                                                                                                                                                                                      |
+| Venta min. contribución = 0.5 ETH          | 25,00%                       | 25 000 000     | Etapa principal de venta para todos los contribuidores que pasen el protocolo KYC de TOR-X.                                                                                                                                                                                                                                        |
 | Venta minima privada. contribution = 100 ETH  | 14,00%                       | 14 000 000     | Los inversionistas privados son instituciones y expertos de la industria con una influencia significativa que están interesados en el desarrollo de proyectos y en el replanteo TOR-X Masternode. Son muy útiles e instructivos tanto en tecnología como en desarrollo de negocios.
 |
-| Preventa min. contribución = 10 ETH        | 10,00%                       | 10 000 000     | Los inversionistas en preventa son los primeros en adoptar proyectos interesados en la colocación de nodos TOR-X.                                                                                                                                                                                                                        |
-| Equipo                                    | 12,00%                       | 12 000 000     | El equipo fundador principal y los miembros del equipo que participarán en el desarrollo del proyecto. Hicieron contribuciones de recursos humanos y tecnología durante el desarrollo de la cadena de bloques TOR-X Network. Su token share será en 2 años después de la fecha de listado del token TOR-X.
-
+| Preventa min. contribución = 10 ETH        | 10,00%                       | 10 000 000     | Los inversionistas en preventa son los primeros en adoptar proyectos interesados en la colocación de nodos TOR-X.                                                                                                                                                             
+| Equipo                                     | 12,00%                       | 12 000 000     | El equipo fundador principal y los miembros del equipo que participarán en el desarrollo del proyecto. Hicieron contribuciones de recursos humanos y tecnología durante el desarrollo de la cadena de bloques TOR-X Network. Su token share será en 2 años después de la fecha de listado del token TOR-X.
+|
 | Reserva de asesores y socios estratégicos. | 7,00%                        | 7 000 000      | Advisors and industry experts bounty program that will help to achieve wider distribution of TOR-X ecosystem principles. Their tokens will be unlocked in 1 year after listing. Strategical partners and service providers will drive TOR-X ecosystem to mass adoption and ease practical applicatio |
-| Venta privada del nodo                        | 5,44%                        | 5 440 000      | Bonus del 45% a los compradores del Masternodo.                                                                                                                                                                                                                                                                 |
-| Pre venta del Bonus                            | 2,98%                        | 2 980 000      | Bonus del 35% a los compradores del nodo.                                                                                                                                                                                                                                                                        |
-| Venta del Bonus                                | 2,00%                        | 2 000 000      |                                                                                                                                                                                                                                                                                                       |
-| Mercado                                 | 6,58%                        | 6 580 000      | Esta parte de los Tokens TOR-X será utilizada para difundir y construir la comunidad de TOR-X.                                                                                                                                                                                                         |
+|
+| Venta privada del nodo                      | 5,44%                       | 5 440 000      | Bonus del 45% a los compradores del Masternodo.                                                                                                                                                                                                                             |
+| Pre venta del Bonus                         | 2,98%                        | 2 980 000      | Bonus del 35% a los compradores del nodo.                                                                                                                                                                                                                                   |
+| Venta del Bonus                                | 2,00%                        | 2 000 000      |                                                                                                                                                                                                                                                                                    |
+| Mercado                                 | 6,58%                        | 6 580 000      | Esta parte de los Tokens TOR-X será utilizada para difundir y construir la comunidad de TOR-X.                                                                                                                                                                                          |
 | Programa de Referencia                          | 5,00%                        | 5 000 000      | Esta es la cantidad máxima de tokens que se pagará como recompensa del programa de  referencia a los contribuyentes del proyecto TOR-X (los tokens no utilizados se agregaran a la reserva de Asesores y Socios Estratégicos)                                                                                                                                |
 | Programa de Camapaña                            | 5,00%                        | 5 000 000      | El programa Bounty está dirigido a difundir información sobre el proyecto TOR-X, hacer crecer la comunidad TOR-X y ayudar en la localización del proyecto. (Las fichas no utilizadas se agregaran a la reserva de Asesores y Socios Estratégicos)                                                                                                 |
 | Airdrop                                   | 5,00%                        | 5 000 000      | Participación máxima de tokens que se transferirán a los miembros del programa TOR-X Airdrop. El objetivo principal de airdrop es hacer crecer la comunidad TOR-X y lograr una mayor riqueza. (Las fichas no utilizadas se agregaran a la reserva de Asesores y Socios Estratégicos)                                                                 |
@@ -370,68 +371,70 @@ Nuestra visión preliminar de la secuencia de desbloqueo de token TOR-X se repre
 
 | **Nombre**           | **Unlock on Exchange Listing** | **+3 Months** | **+6 Months** | **+1 Year** | **+2 Years** |
 |--------------------|--------------------------------|---------------|---------------|-------------|--------------|
-| Sale               |  X                             |               |               |             |              |
-| Private Sale       |  X                             |               |               |             |              |
-| Presale            |  X                             |               |               |             |              |
-| Team               |                                |               |               |             | X            |
-| Advisors           |                                |               |               | X           |              |
-| Private sale bonus |                                | ½ X           | ½ X           |             |              |
-| Pre-sale Bonus     |                                | ½ X           | ½ X           |             |              |
-| Sale Bonus         |                                | ½ X           | ½ X           |             |              |
-| Marketing          |  X                             |               |               |             |              |
-| Referral bounty    | X                              |               |               |             |              |
-| Bounty program     |                                | ½ X           | ½ X           |             |              |
+| Venta              |  X                             |               |               |             |              |
+| Venta Privada      |  X                             |               |               |             |              |
+| Pre-Venta          |  X                             |               |               |             |              |
+| Equipa             |                                |               |               |             | X            |
+| Asesores           |                                |               |               | X           |              |
+| Venta Pri. Bonus   |                                | ½ X           | ½ X           |             |              |
+| Pre-Venta Bonus    |                                | ½ X           | ½ X           |             |              |
+| Venta del Bonus    |                                | ½ X           | ½ X           |             |              |
+| Marketíng          |  X                             |               |               |             |              |
+| Prog. Referencia   | X                              |               |               |             |              |
+| Campaña            |                                | ½ X           | ½ X           |             |              |
 | Airdrop            |                                |               | X             |             |              |
 
-There are several stages of TOR-X token unlock that will take place after ICO
-and before TOR-X Mainnet launch.
+Hay varias etapas de desbloqueo del token de TOR-X que tendrán lugar después 
+del ICO y antes del lanzamiento de TOR-X Mainnet.
 
-1.  Upon TOR-X exchange listing, TOR-X team going to distribute Sale, Pre-Sale 
-and Private Sale tokens excluding bonus share.
+1.  Tras el intercambio de TOR-X, el equipo de TOR-X distribuirá las fichas de Venta, Pre-Venta y 
+Venta Privada, excluyendo la participación de bonificación
 
-2.  The next unlock stages will take place in 3 months and 6 months after
- listing
+2.  Las siguientes etapas de desbloqueo se llevarán a cabo 
+en 3 meses y 6 meses después del listado.
 
-3.  Tokens for Team and advisors will be locked for 1 Year and 2 years in
-    accordance with plan.This is necessary measure for the purpose of prevention
-    of TOR-X Token price dump.
+3.  Los tokens para el equipo y los asesores se bloquearán durante 1 año y 2 años 
+de acuerdo con el plan. Esta es una medida necesaria para prevenir 
+el volcado de precios del token TOR-X.
 
-## Forecast of TOR-X token price
+## Pronóstico del precio token TOR-X
 
 
-Based on our experience, market dynamics and ultimate and unbeatable advantages
-of stack of technologies that will be used by TOR-X team to build TOR-X
-blockchain ecosystem and services, we made forecast of TOR-X token price
-dynamics for the two years’ perspective after TOR-X ICO hardcap reach and in
-accordance with TOR-X Network project roadmap.
+Basándonos en nuestra experiencia, las dinámicas del mercado y las ventajas últimas e 
+imbatibles de las tecnologías que utilizará el equipo TOR-X para construir el ecosistema y 
+los servicios de la cadena de bloques TOR-X, hicimos una previsión de la dinámica de los 
+precios del token TOR-X para los dos años. Perspectiva después del alcance del ICO 
+TOR-X y de acuerdo con la hoja de ruta del proyecto de la Red TOR-X.
 
 ![TOR-X  token to USD price forecast](https://tor-x.network/whitepaper/price-forecast-1.jpg)
 
-## TOR-X Masternode and Node holders’ benefits
+## Beneficios del Máster-nodo y el nodo de TOR-X y su retención. 
 
-TOR-X Network architecture uses nodes and masternodes to support network with
-computing power, blockchain replication and DApps operation. Both nodes and
-masternodes are paid a portion of block rewards. Each block reward consists of
-transaction rewards that were computed in this block. Payment of reward will be
-made in TOR-X network native tokens. That payment serves as a form of passive
-income to nodes and masternodes owners.
+La arquitectura de la red TOR-X utiliza nodos y masternodo para admitir la red con
+potencia de computación, replicación de cadena de bloques y operación de DApps. Tanto a
+los nodos como a los masternodo se les paga una parte de las recompensas de bloque. 
+Cada recompensa del bloque consiste en recompensas de transacciones que se calcularon 
+durante el bloque. El pago de la recompensa se realizará en tokens nativos de la red 
+TOR-X. Ese pago sirve como una forma de ingreso pasivo para los propietarios de nodos y 
+masternodes.
 
-As TOR-X masternodes and nodes title redistribution will be performed by MCDM
-Neural Network, we decided to simplify this process.
+Dado que la red neuronal MCDM realizará la redistribución de títulos de los masternodes y 
+nodos TOR-X, decidimos simplificar este proceso.
 
-TOR-X token holder that are willing to support network and become node or
-masternaode maintainer will have to stock TOR-X token collateral. Initial
-amounts of token staking are:
+El portador del token TOR-X que está dispuesto a brindar soporte a la red y convertirse en
+mantenedor de nodo o masternodo tendrá que tener en existencia el colateral del token
+TOR-X. Las cantidades iniciales de replanteo de fichas son:
 
--   20 000 TOR-X tokens for obtaining node title
+-   20 000 fichas TOR-X para obtener el título del nodo.
 
--   100000 TOR-X tokens for obtaining masternode title.
+-   100000 tokens TOR-X para obtener el título de Masternodo.
 
-In case if there are will be more than 20% of token holders pretending to
-maintain node and/or masternode, other parameters such as performance, uptime,
-connection speed, geographical location will be taken into account.
+En caso de que haya más del 20% de los poseedores de tokens que pretenden mantener el 
+nodo y / o Masternodo, se tendrán en cuenta otros parámetros como el rendimiento, el 
+tiempo de actividad, la velocidad de conexión y la ubicación geográfica.
 
-### Masternodes – top 4% of TOR-X holders
+
+### Masternodes - el 4% superior de los poseedores TOR-X
 
 
 Masternodes are reputable parties that are holding stack of TOR-X tokens, with
