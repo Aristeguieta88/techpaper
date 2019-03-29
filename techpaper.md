@@ -543,48 +543,56 @@ traerá nuevas soluciones:
 
 ### Cambio de tokens cifrado descentralizado iDApp
 
-The main aim of TOR-X team is to build secure DEX iDApp. Decentralized trading
-has long been constrained by cross-chain technology, and current decentralized
-trading only allows for transaction on the same public chain. TOR-X network will
-provide infrastructure for TOR-X DEX iDApp. TOR-X DEX will become secure,
-decentralized and auditable cross-chain trading platform and liquidity provider
-for the global blockchain community.
+El objetivo principal del equipo TOR-X es construir el iDApp del intercambio 
+descentralizado DEX seguro. El comercio descentralizado se ha visto limitado
+durante mucho tiempo por la tecnología de cadenas cruzadas. El comercio
+descentralizado actual solo permite transacciones en la misma cadena pública. 
+La red TOR-X proporcionará infraestructura para TOR-X DEX iDApp. TOR-X DEX se
+convertirá en una plataforma de comercio cruzado de cadenas segura y descentralizada 
+y auditable para la comunidad global de blockchain. 
 
-### Two-way crypto-2-fiat and fiat-2-crypto exchange
+### Crypto-2-fiat y fiat-2-crypto de dos formas:
 
-This is one of the main purposes of TOR-X ecosystem – provide global
-p2p(person-to-person) and pEp(person-Escrow-person) exchange gateway. This
-significant advantage of TOR-X ecosystem that became cornerstone of crypto
-economics mass adoption.
+Este es uno de los propósitos principales del ecosistema TOR-X: 
+proporcionar una pasarela de intercambio global p2p (persona a persona) 
+y pEp (persona-fideicomiso-persona). Esta importante ventaja del ecosistema 
+TOR-X que se convirtió en la piedra angular de la adopción masiva de la 
+economía criptográfica.
 
-### Decentralized Applications
+### Aplicaciones descentralizadas:
 
-TOR-X Network developers team will provide support, development environment 
-and tools to community of DApp developers. This will help to grow community 
-of TOR-X Ecosystem and will make development process easy and convenient. 
-The main accelerating factor of TOR-X mass adoption will be commission sharing 
-scheme between DApp developers, node owners and TOR-X team.
-
-### Two-way cross-chain exchange 
-
-Two-way cross-chain exchange use of the same assets across chains and extended
-application scenarios. With cross-chain exchange, assets on one chain can be
-transferred to other chains. New blockchain systems can greatly enhance
-technical features and application scenarios for assets. Not only can
-responsibility for transactions on the main chain be shared, saving storage,
-computation, and network resources on the main chain, and preventing transaction
-congestion, but also the value of the original tokens is not damaged.
-
-## TOR-X marketplace
+El equipo de desarrolladores de TOR-X Network proporcionará soporte, 
+entorno de desarrollo y herramientas a la comunidad de desarrolladores de aplicaciones. 
+Esto ayudará a hacer crecer la comunidad del ecosistema TOR-X y hará que el proceso 
+de desarrollo sea fácil y conveniente. El principal factor de aceleración de 
+la adopción masiva de TOR-X será el esquema de distribución de comisiones entre 
+los desarrolladores de DApp, los propietarios de nodos y el equipo de TOR-X.
 
 
-TOR-X marketplace is a space where service and goods providers will be able to
-meet customers. All transactions of marketplace will be made through TOR-X token
-and prices in other tokens and currencies will be provided for reference only.
-This mechanism will involve TOR-X exchange and fiat2crypto/crypto2fiat TOR-X
-network gateways. This approach will stimulate global demand for products,
-services and native token – TOR-X coin that will become primary medium of
-exchange in TOR-X ecosystem
+### Intercambio de cadenas cruzadas: 
+
+El uso de intercambio bidireccional entre cadenas de los mismos activos
+a través de cadenas y escenarios de aplicación extendida. Con el 
+intercambio de cadenas cruzadas, los activos en una cadena pueden 
+transferirse a otras cadenas. Los nuevos sistemas blockchain pueden mejorar 
+enormemente las características técnicas y los escenarios de aplicación para 
+los activos. La responsabilidad de las transacciones en la cadena principal 
+no solo se puede compartir; ahorra y almacena cómputo y recursos de red en 
+la cadena principal, evita la congestión de las transacciones
+y no daña el valor de los tokens originales.
+
+
+## Mercado TOR-X
+
+
+El mercado TOR-X es un espacio donde los proveedores de servicios y bienes
+podrán reunirse con los clientes. Todas las transacciones del mercado se 
+realizarán a través del token TOR-X y los precios en otros tokens 
+y las monedas se proporcionarán sólo como referencia. Este mecanismo 
+implica el intercambio TOR-X y las puertas de enlace de red 
+TOR-X fiat a crypto / crypto a fiat. Este enfoque estimulará la demanda 
+global de productos, servicios y token nativos: una moneda TOR-X que se 
+convertirá en el principal medio de intercambio en el ecosistema TOR-X.
 
 ## DISCLAIMER
 
