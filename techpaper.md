@@ -1,5 +1,3 @@
-## Introduction
-
 ## Introducción
 
 Hoy día los intercambios de criptomonedas se realizan en casas de cambio centralizadas. 
@@ -41,11 +39,7 @@ TOR-X está emitiendo 100 millones de fichas para iniciar el desarrollo y la ado
 de la tecnología TOR-X, de las cuales 60 millones serán vendidas al público en distintas 
 etapas de venta. 
 
-## The History of Blockchain Industry Development 
-
 ## Historia del desarrollo de la industria Blockchain 
-
-### Blockchain 1.0, 2.0, and 3.0 
 
 ### Blockchain 1.0, 2.0 y 3.0
 
@@ -102,9 +96,6 @@ digitales, reales y en las innovaciones de las relaciones de producción basadas
 métodos de asignación de activos. La reducción de la fricción de la transacción entre los 
 activos y la creación de una gama más amplia de redes de valor y sistemas económicos 
 dependen fundamentalmente del desarrollo de la tecnología de cadena cruzada.
-
-### Weaknesses and Threats of CEX approach
-
 
 ### Debilidades y amenazas del enfoque CEX
 
@@ -207,9 +198,6 @@ Esto jamás pasaría en el acercamiento propuesto por el equipo de TOR-X.
 ## TOR-X blockchain
 
 
-## TOR-X blockchain
-
-
 El ecosistema TOR-X utilizará las mejores prácticas y enfoques de la industria de blockchain
 que se lograron hasta el momento presente. Obviamente, esta no es la mejor idea:
 comenzar un proyecto revolucionario prometedor en una pila de tecnología y algoritmo de
@@ -229,105 +217,106 @@ En TOR-X vamos a resolver los siguientes problemas:
 3.  Contrato inteligente y DApp, desarrollo de iDApp accesible para la comunidad global de 
     desarrolladores.
 
-4.  TOR-X node and super node title redistribution will be controlled by
-    Multi-Criteria Decision Making Neural Network itself without invasion from
-    outside so it will be candid and final. This mechanism is required to
-    prevent various attacks and manipulations with blockchain data.
+4.  La redistribución del título del nodo TOR-X y del súper nodo será controlada por la misma
+    Red Neural de Toma de Decisiones de Múltiples Criterios sin invasión desde el exterior, por 
+    lo que será franca y definitiva. Este mecanismo es necesario para prevenir varios ataques y 
+    manipulaciones con datos de blockchain.
 
-5.  Node rating evaluation will be partially based on following incomplete list
-    of factors:
+5.  La evaluación de la calificación de los nodos se basará parcialmente en la siguiente lista
+    incompleta de factores:
 
-    1.  TOR-X token holding Volume – the more TOR-X tokens being staked on
-        node\`s contract, the higher rating will be assigned
+    1.  Volumen de tenencia del token TOR-X: cuantas más fichas TOR-X se apilan en el contrato 
+        del nodo, se asignará la calificación más alta.
 
-    2.  TOR-X token holding Duration – the longer TOR-X tokens being staked on
-        node\`s contract, the higher rating will be assigned
+    2.  Duración de la tenencia del token TOR-X: cuanto más se apilan los tokens TOR-X en el 
+        contrato del nodo, se asignará la calificación más alta
 
-    3.  TOR-X node Performance KPIs – the higher TOR-X node\`s performance and
-        network connection speed, latency, the higher rating will be assigned
+    3.  KPI de rendimiento del nodo TOR-X: el rendimiento y la velocidad de conexión de la red del 
+        nodo TOR-X más alto, la latencia, la calificación más alta se asignará
 
-    4.  TOR-X node Trust level – the more users rated p2p transaction through
-        this node as positive, the higher rating will be assigned
+    4.  Nivel de confianza del nodo TOR-X: cuanto más usuarios califiquen la transacción p2p a 
+        través de este nodo como positivo, se asignará la calificación más alta
 
-Summarizing mentioned above, TOR-X team focusing on utilizing following stack of
-algorithms and technologies:
+En resumen, el equipo de TOR-X se enfoca en utilizar la siguiente pila de algoritmos y
+tecnologías:
 
-1.  Hashgraph combined with Proof of History consensus algorithm.
+1.  Hashgraph combinado con el algoritmo de consenso de la prueba de la historia.
 
-2.  Gossip protocol for the purpose of quick and efficient consensus
-    achievement.
+2.  Protocolo de informe con el propósito de lograr un consenso rápido y eficiente.
 
-3.  Self-learning Neural Network to solve problem of Multi-Criteria Decision
-    Making, for example, TOR-X node status.
+3.  Red neuronal de autoaprendizaje para resolver el problema de la toma de decisiones de
+    criterios múltiples, por ejemplo, el estado del nodo TOR-X.
 
-### TOR-X blockchain ecosystem
+### Ecosistema del Blockchain TOR-X
 
 
-TOR-X blockchain ecosystem will cover all the interested communities:
+El ecosistema del Blockchain TOR-X cubrirá todas las comunidades interesadas:
 
-1.  Developers that will enjoy clear and self-describing blockchain API and
-    smart contract source code and developer bounty program.
+1.  Desarrolladores que disfrutarán de una API de blockchain clara y autodescriptiva y un
+    código fuente de contrato inteligente y un programa de recompensas para desarrolladores.
 
-2.  Traders that will be able to perform operations quickly and securely via
-    built-in decentralized exchange engine on low latency and high capacity
-    network with ability of adjustment transaction fees.
+2.  Los comerciantes podrán realizar operaciones de forma rápida y segura a través del motor
+    de intercambio descentralizado incorporado en una red de baja latencia y alta capacidad 
+    con la capacidad de ajustar las tarifas de transacción.
 
-3.  Organizations that will be able to use single payment gateway to accept most
-    of exchangeable cryptocurrencies, issue own tokens for the purposes of
-    crowdfunding, loyalty programs, voting and in-app mechanics.
+3.  Las organizaciones que podrán usar la pasarela de pago único para aceptar la mayoría de 
+    las criptomonedas intercambiables, emitirán sus propios tokens para fines de crowdfunding,
+    programas de lealtad, votaciones y mecanismos integrados en la aplicación.
 
 ![TOR-X Blockchain Ecosystem](https://tor-x.network/whitepaper/structure-1.jpg)
 
 ### TOR-X iDApps
 
 
-TOR-X ecosystem approach based on simple concept: every function of the
-blockchain must be performed by separate single-task optimized iDApp that can be
-developed either by TOR-X team or community developers. Every iDApp will have
-fee structure that will cover: iDApp developer bounty, TOR-X team audit costs,
-Miner bounty. This approach going to prevent appearance of malicious
-applications and suspicious activity from one side and stimulate creative
-developers to invent and deploy useful DApps and iDApps from another side.
+El Enfoque del ecosistema TOR-X está basado en un concepto simple: Cada función 
+del Blockchain debe ser realizada por un iDApp optimizado para una sola tarea 
+que puede ser desarrollado por el equipo TOR-X o por desarrolladores de la 
+comunidad. Cada iDApp dtendrá una estructura de tarifas que cubrirá: la recompensa 
+del desarrollador de iDApp, los costos de auditoría del equipo TOR-X y la 
+recompensa de la mineria. Este enfoque evitará la aparición de aplicaciones 
+maliciosas y actividades sospechosas de un lado y estimulará a los desarrolladores 
+creativos a inventar e implementar DApp e iDApp útiles desde otro lado.
 
 ![Revenue share model of TOR-X DEX iDAPP](https://tor-x.network/whitepaper/idapp-revshare-1.jpg)
 
-### TOR-X DEX iDApp vision:
+### TOR-X DEX iDApp visión:
 
 
-TOR-X team vision of iDApp is to focus on building of machine learning
-algorithms instead of pre-coded business logic: TOR-X DEX iDApp will adjust
-miners\` reward percentage based on current ecosystem state and iDApp load and
-performance instead of a fixed reward fees. TOR-X Intelligent Decentralized
-Application engine will support load balancing in accordance with network
-segment time of the day and historical data. Moreover, TOR-X DEX iDApp will use
-side blockchains instead of relying on single TOR-X blockchain only, for
-example, during cross-chain exchange. TOR-X DEX iDApp can either deploy itself
-on existing public blockchain such as Ethereum blockchain or rely on TOR-X
-blockchain computing infrastructure. No matter anymore will it be Public or
-Private blockchain. TOR-X DEX iDApp will choose the best available outcome to
-outsource its computing infrastructure requirements. iDApp will only care about
-the customers\` requirements that it serves since this would maximize everyone’s
-revenue. For example, if the customers require privacy for OTC exchange, TOR DEX
-iDApp would never utilize the Public blockchain since doing so would result in
-losing all of its clients and income or cause significant price fluctuations.
+La visión de iDApp del equipo TOR-X es centrarse en la construcción de algoritmos de
+aprendizaje automático en lugar de la lógica empresarial precodificada: TOR-X DEX iDApp
+ajustará el porcentaje de recompensa de los mineros según el estado actual del ecosistema 
+y la carga y el rendimiento de iDApp en lugar de una recompensa fija matrícula. El motor de 
+aplicación descentralizada inteligente TOR-X admitirá el equilibrio de carga de acuerdo con 
+la hora del segmento de red del día y los datos históricos. Además, TOR-X DEX iDApp
+utilizará cadenas de bloqueo laterales en lugar de confiar solo en una única cadena de 
+bloques TOR-X, por ejemplo, durante el intercambio de cadenas cruzadas.
+TOR-X DEX iDApp puede implementarse en una Blockchain pública existente como 
+Ethereum blockchain o depender de la infraestructura informática de la cadena de bloques 
+TOR-X. Ya no importa si es un Blockchain público o privado. TOR-X DEX iDApp elegirá el
+mejor resultado disponible para subcontratar sus requisitos de infraestructura informática. 
+iDApp solo se preocupara por los requisitos de los clientes, ya que esto maximizaría los 
+ingresos de todos. Por ejemplo, si los clientes requieren privacidad para el intercambio 
+OTC, TOR DEX iDApp nunca utilizaría la cadena de bloques pública, ya que al hacerlo se 
+perderían todos sus clientes e ingresos o se producirían fluctuaciones significativas en los 
+precios.
 
-1.  Decentralized exchange application has no access to users\` private keys,
-    funds and sensitive personal data. All operations with users\` funds must be
-    approved by themselves.
+1.  La aplicación de intercambio descentralizado no tiene acceso a las claves privadas, los 
+    fondos y los datos personales confidenciales de los usuarios. Todas las operaciones 
+    realizadas con fondos de los usuarios deben ser aprobadas por ellos mismos.
 
-2.  Traders on TOR-X DEX can start trading immediately without needing to submit
-    their name or any identifying documents of any kind. TOR-X DEX is not bound
-    by intrusive, ineffective and pointless KYC/AML regulations that intrude on
-    users\` privacy and which put them at risk of identity theft by making the
-    exchange a target for hackers.
+2.  Los comerciantes en TOR-X DEX pueden comenzar a operar de inmediato sin necesidad de 
+    enviar su nombre o cualquier documento de identificación de cualquier tipo. TOR-X DEX no 
+    está sujeto a regulaciones KYC / AML intrusivas, ineficaces e inútiles que se entrometen en 
+    la privacidad de los usuarios y que los ponen en riesgo de robo de identidad al hacer que el
+    intercambio sea un objetivo para los piratas informáticos.  
 
-3.  Crypto to fiat and fiat to crypto exchange supported by global network of
-    TOR-X nodes and super nodes that stake TOR-X tokens as security deposit to
-    cover default risks.
+3.  Crypto a fiat y fiat a crypto intercambio soportado por la red global de nodos y supernodos
+    TOR-X que utiliza los tokens TOR-X como depósito de seguridad para cubrir los riesgos por
+    defecto.
 
-4.  Seamless cross-chain exchange via single entry point. All exchange
-    operations are made via TOR-X token. TOR-X neural network will be used for
-    matching of exchange orders.
+4.  Intercambio continuo de cadenas cruzadas a través de un solo punto de entrada. Todas las 
+    operaciones de intercambio se realizan a través del token TOR-X. La red neuronal TOR-X
+   se utilizará para el emparejamiento de órdenes de cambio.
 
 5.  Any crypto-asset exchange process will be accessible with any device and any
     operating system.
